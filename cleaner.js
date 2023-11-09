@@ -1,4 +1,4 @@
-const DELAY = 2_000;
+const DELAY = 1_000;
 
 function delay(time) {
     return new Promise(resolve => setTimeout(resolve, time));
